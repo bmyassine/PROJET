@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/eeeee">
+        <file>bf0d64e726ecd074a2e4a39681696ee9.jpg</file>
+        <file>cbn.jpg</file>
+        <file>fdaffiche - Copie.jpg</file>
+        <file>fdaffiche.jpg</file>
+        <file>panier3.jpg</file>
+        <file>ajout.png</file>
+        <file>annuler.png</file>
+        <file>bouton-quitter-png-3.png</file>
+        <file>f01499ea873e4320b121979478d2d9d4.png</file>
+        <file>grocer.png</file>
+        <file>panier4.png</file>
+        <file>poubelle.png</file>
+        <file>show.png</file>
+    </qresource>
+</RCC>
